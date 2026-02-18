@@ -54,5 +54,4 @@ We may update this Privacy Policy from time to time. Updated versions are effect
 
 For privacy questions, contact:
 
-- Email: support@ezc-crm.com
-
+- Email: info@ezc.ae
